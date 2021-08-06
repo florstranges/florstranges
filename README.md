@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **front-end projects**
 
-- 🌱 I’m currently studying **full-stack development in Coderhouse**
-
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End:</h4>
 <p align="left">  <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> </p>
