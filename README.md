@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Florencia Stranges</h1>
-<h2 align="center">Graphic and digital designer, front end developer & community manager</h2>
+<h2 align="center">Front End Developer, Graphic and Digital Designer</h2>
 
 - 🔭 I’m currently working on **front-end projects**
 
