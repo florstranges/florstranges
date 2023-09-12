@@ -9,6 +9,7 @@
 
 <h4 align="left">Studying:</h4>
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="python" width="40" height="40"/>  </p>
 
 <h4 align="left">Design:</h4>
 <p align="left">  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="48">  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
