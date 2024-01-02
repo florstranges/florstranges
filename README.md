@@ -7,7 +7,7 @@
 <h4 align="left">Front End:</h4>
 <p align="left">  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> <a href="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<h4 align="left">Studying:</h4>
+<h4 align="left">Learning:</h4>
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="python" width="40" height="40"/>  </p>
 
 <h4 align="left">Design:</h4>
